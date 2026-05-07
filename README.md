@@ -1,25 +1,17 @@
-<div style="text-align: center;">
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F7F7F7&center=true&vCenter=true&repeat=false&lines=%F0%9F%91%8B%F0%9F%8F%BB+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%91%D1%83%D1%8F%D0%BA+%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2" alt="Привет, я Буяк Ярослав"
-	/>
-</a>
-
-<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F7F7F7&center=true&vCenter=true&repeat=false&width=800&lines=%D0%AF+-+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%98+%D1%8F+%D0%BC%D0%BE%D0%B3%D1%83+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B0%D1%81+%D0%BC%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5+%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5+%D0%B2%D0%B5%D1%89%D0%B8+%F0%9F%98%8A" alt="Я фронтенд разработчик и могу сделать для вас многие прекрасные вещи"
-	/>
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F7F7F7&center=true&vCenter=true&repeat=false&width=900&lines=%F0%9F%91%8B%F0%9F%8F%BB+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%91%D1%83%D1%8F%D0%BA+%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2;%D0%AF+-+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8+%D0%BC%D0%BE%D0%B3%D1%83+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B0%D1%81+%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D1%85+%D0%B2%D0%B5%D1%89%D0%B5%D0%B9+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 </div>
 
 ## 🔧 Мой стек технологий:
-  - HTML (HTML5)
-  - CSS (CSS3), Sass (SCSS), PostCSS
-  - JavaScript (ES6+, OOP)
-  - ESLint, Stylelint, Prettier
-  - BEM, Accessibility, UX
-  - Git (GitHub)
-  - Figma, Adobe Photoshop
+- HTML (HTML5)
+- CSS (CSS3), Sass (SCSS), PostCSS
+- JavaScript (ES6+, OOP)
+- ESLint, Stylelint, Prettier
+- BEM, Accessibility, UX
+- Git (GitHub)
+- Figma, Adobe Photoshop
 
 
 ## 🧳 Моё портфолио:
@@ -39,7 +31,7 @@
   />
   WhatsApp
 </a>
-
+<br/>
 <a href="mailto:kurohador.001@gmail.com">
 	<img
 		src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg"
@@ -51,6 +43,9 @@
 
 <div style="text-align: center;">
 
-![Спасбо за внимание!](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Спасибо%20За%20Внимание%20!&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=45&animation=scaleIn&stroke=000000&strokeWidth=3&descSize=-1&descAlign=60)
+<img
+	src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Спасибо%20За%20Внимание%20!&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=45&animation=scaleIn&stroke=000000&strokeWidth=3"
+	width="100%"
+/>
 
 </div>
