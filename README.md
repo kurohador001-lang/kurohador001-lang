@@ -23,7 +23,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurohador001-lang&theme=github-compact&title_color=0FBF3E&custom_title=График%20моей%20активности"/>
 
 ## 📞 Как со мной связаться?
-<a href="https://wa.me/79014901424">
+<a href="https://wa.me/79014901424" style="display: inline-block; line-height: 30px; text-decoration: none;">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/960px-WhatsApp.svg.png"
     width="30"
@@ -32,7 +32,7 @@
   WhatsApp
 </a>
 <br/>
-<a href="mailto:kurohador.001@gmail.com">
+<a href="mailto:kurohador.001@gmail.com" style="display: inline-block; line-height: 30px; text-decoration: none;">
 	<img
 		src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg"
 		width="30"
