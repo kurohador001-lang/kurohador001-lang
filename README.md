@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F7F7F7&center=true&vCenter=true&repeat=false&width=900&lines=%F0%9F%91%8B%F0%9F%8F%BB+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%91%D1%83%D1%8F%D0%BA+%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2;%D0%AF+-+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8+%D0%BC%D0%BE%D0%B3%D1%83+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B0%D1%81+%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D1%85+%D0%B2%D0%B5%D1%89%D0%B5%D0%B9+%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=2000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=900&lines=%F0%9F%91%8B%F0%9F%8F%BB+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%91%D1%83%D1%8F%D0%BA+%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2;%D0%AF+-+%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8+%D0%BC%D0%BE%D0%B3%D1%83+%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C+%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B0%D1%81+%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE+%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D1%85+%D0%B2%D0%B5%D1%89%D0%B5%D0%B9+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 </div>
 
@@ -26,8 +26,7 @@
 <a href="https://wa.me/79014901424" style="display: inline-block; line-height: 30px; text-decoration: none;">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/960px-WhatsApp.svg.png"
-    width="30"
-    style="vertical-align: middle;"
+    width="20"
   />
   WhatsApp
 </a>
@@ -35,8 +34,7 @@
 <a href="mailto:kurohador.001@gmail.com" style="display: inline-block; line-height: 30px; text-decoration: none;">
 	<img
 		src="https://www.svgrepo.com/show/395714/email-message-mail-envelope.svg"
-		width="30"
-		style="vertical-align: middle;"
+		width="20"
 	/>
 	Email
 </a>
